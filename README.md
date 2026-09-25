@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy, I'm ESLAM✨️ 👋</h1>
+<h1 align="center">Heyyy, I'm Eslam✨️ 👋</h1>
 <h3 align="center">A lazy CS Student</h3>
 
 <p align="center">
