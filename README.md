@@ -29,6 +29,7 @@
 </p>
 <!-- Add or remove badges as you learn new languages! (Search for more on shields.io) -->
 <!-- General Skills -->
+
 ### ☸️ Special Abilities
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMwOTUxcjRnajF1YnkxbmV1NzA1aXNwcDhwN2I2bzV2YnN3M2lrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2ztbBeEfCOiADOjoS/giphy.gif" width="150" alt="Spinning Mahoraga Wheel" />
