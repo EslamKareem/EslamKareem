@@ -14,6 +14,7 @@
 - 📫 How to reach me: **[eslam.karim.m@gmail.com]**
 - 🔗 https://www.linkedin.com/in/islam-karim-12b431280
 - I love learning new thing and am obsessed with tech, but my room is always dark (i love it like that)
+- 🖥️ Screen time: **Yeah✨️**
 
 ### 🛠️ Tech Stack & Environment
 <p align="left">
