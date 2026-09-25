@@ -10,9 +10,10 @@
 ### 👨‍💻 About Me
 - 🎓 currently studying **Computer Science**
 - 🌱 am Eco friendly (lazy) however i always get the job done. 
-- 👯 I’m looking to collaborate on open-source projects.
+- 🔓️ I’m all in for open-source projects.
 - 📫 How to reach me: **[eslam.karim.m@gmail.com]**
 - 🔗 https://www.linkedin.com/in/islam-karim-12b431280
+- I love learning new thing and am obsessed with tech, but my room is always dark (i love it like that)
 
 ### 🛠️ Tech Stack & Environment
 <p align="left">
@@ -20,7 +21,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <br>
   <!-- Operating Systems -->
