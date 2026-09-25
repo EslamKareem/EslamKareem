@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ESLAM✨️ 👋</h1>
-<h3 align="center">A passionate CS Student</h3>
+<h3 align="center">A lazy CS Student</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
