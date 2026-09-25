@@ -29,14 +29,16 @@
 </p>
 <!-- Add or remove badges as you learn new languages! (Search for more on shields.io) -->
 <!-- General Skills -->
-  <img src="https://img.shields.io/badge/Problem%20Solving-FF4500?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Research%20&%20Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search"/>
-</p>
-<img src="https://img.shields.io/badge/Special_Ability-Adapt_to_any_and_all-silver?style=for-the-badge&logoColor=black" alt="Mahoraga Adaptability"/>
+### ☸️ Special Abilities
 <p align="center">
-  <img src="YOUR_MAHORAGA_WHEEL_GIF_LINK.gif" width="150" alt="Spinning Mahoraga Wheel" />
+  <img src="PASTE_YOUR_COPIED_GIF_LINK_HERE" width="150" alt="Spinning Mahoraga Wheel" />
   <br>
   <i>"With this treasure, I summon..."</i>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Special_Ability-Adapt_to_any_and_all_phenomena-silver?style=for-the-badge&logoColor=black" alt="Mahoraga Adaptability"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF4500?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Research%20&%20Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search"/>
 </p>
 
 ### 📊 GitHub Stats
