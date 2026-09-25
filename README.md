@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm ESLAM✨️ 👋</h1>
+<h1 align="center">Heyyy, I'm ESLAM✨️ 👋</h1>
 <h3 align="center">A lazy CS Student</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=CS+Student;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=Always+Evolving;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
   </a>
 </p>
 
