@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 <!-- Add or remove badges as you learn new languages! (Search for more on shields.io) -->
+<!-- General Skills -->
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF4500?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Research%20&%20Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search"/>
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
