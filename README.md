@@ -32,15 +32,16 @@
 
 ### ☸️ Special Abilities
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMwOTUxcjRnajF1YnkxbmV1NzA1aXNwcDhwN2I2bzV2YnN3M2lrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2ztbBeEfCOiADOjoS/giphy.gif" width="150" alt="Spinning Mahoraga Wheel" />
-  <br>
-  <i>"With this treasure, I summon..."</i>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Adapt_to_any_and_all-silver?style=for-the-badge&logoColor=black" alt="Mahoraga Adaptability"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-FF4500?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
   <img src="https://img.shields.io/badge/Research%20&%20Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search"/>
 </p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMwOTUxcjRnajF1YnkxbmV1NzA1aXNwcDhwN2I2bzV2YnN3M2lrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2ztbBeEfCOiADOjoS/giphy.gif" width="150" alt="Spinning Mahoraga Wheel" />
+  <br>
+  <i>"With this treasure, I summon..."</i>
+</p>
+
 
 ### 📊 GitHub Stats
 <p align="center">
