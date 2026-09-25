@@ -12,7 +12,7 @@
 - 🌱 am Eco friendly (lazy) however i always get the job done. 
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: **[eslam.karim.m@gmail.com]**
--  in/islam-karim-12b431280
+- 🔗 https://www.linkedin.com/in/islam-karim-12b431280
 
 ### 🛠️ Tech Stack
 <p align="left">
