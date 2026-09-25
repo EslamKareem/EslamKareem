@@ -30,7 +30,7 @@
 <!-- Add or remove badges as you learn new languages! (Search for more on shields.io) -->
 <!-- General Skills -->
   <img src="https://img.shields.io/badge/Problem%20Solving-FF4500?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Special_Ability-Adapt_to_any_and_all_phenomena-silver?style=for-the-badge&logoColor=black" alt="Super Adaptability"/>
+<img src="https://img.shields.io/badge/Special_Ability-Adapt_to_any_and_all_phenomena-silver?style=for-the-badge&logoColor=black" alt="Mahoraga Adaptability"/>
   <img src="https://img.shields.io/badge/Research%20&%20Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search"/>
 </p>
 
