@@ -31,7 +31,7 @@
 <!-- General Skills -->
 ### ☸️ Special Abilities
 <p align="center">
-  <img src="PASTE_YOUR_COPIED_GIF_LINK_HERE" width="150" alt="Spinning Mahoraga Wheel" />
+  <img src="https://tenor.com/view/majoraga-gif-8044401601852014275" width="150" alt="Spinning Mahoraga Wheel" />
   <br>
   <i>"With this treasure, I summon..."</i>
 </p>
