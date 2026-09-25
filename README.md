@@ -8,10 +8,10 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently studying **Computer Science**
+- 🎓 currently studying **Computer Science**
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: **[Insert your email or LinkedIn link here]**
+- 📫 How to reach me: **[eslam.karim.m@gmail.com]**
 
 ### 🛠️ Tech Stack
 <p align="left">
