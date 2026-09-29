@@ -2,8 +2,7 @@
 <h3 align="center">A lazy CS Student</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=Tech+Obsessed;Always+Learning;Always+Evolving" alt="Typing SVG" />
+font=Fira+Code&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=Tech+Obsessed;Always+Learning;Always+Evolving" alt="Typing SVG" />
   </a>
 </p>
 
